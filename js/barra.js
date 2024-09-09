@@ -124,7 +124,7 @@ am5.ready(function() {
         value: 2.5
         }, {
         language: "PHP",
-        value: 1
+        value: 1.5
         }, {
         language: "MySql",
         value: 1

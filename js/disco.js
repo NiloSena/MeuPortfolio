@@ -73,9 +73,9 @@ am5.ready(function() {
     //   strokeDasharray:[2,2]
     // })
     
-    // series.states.create("hidden", {
-    //   endAngle: -90
-    // });
+    series.states.create("hidden", {
+      endAngle: -90
+    });
     
     // Set data
     // https://www.amcharts.com/docs/v5/charts/percent-charts/pie-chart/#Setting_data
