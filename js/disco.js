@@ -21,7 +21,7 @@ am5.ready(function() {
       })
     );
         
-    // Create series
+    // Create seriess
     // https://www.amcharts.com/docs/v5/charts/percent-charts/pie-chart/#Series
     var series = chart.series.push(
       am5percent.PieSeries.new(root, {
