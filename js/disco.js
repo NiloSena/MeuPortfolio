@@ -1,3 +1,5 @@
+//ajustes
+
 am5.ready(function() {
   const query = window.matchMedia("(max-width: 426px)");
     // Create root element
